@@ -1,4 +1,4 @@
-primer documento html para github
+#primer documento html para github
 
 git add = añade el archivo modificado a al repositorio
 
@@ -15,3 +15,5 @@ git init = inicia un repositorio en una carpeta concreta.
 git remote add origin = añade el repositorio a traves de una url a una carpeta y los vincula
 
 git commit -m = añade una nota de la actualizacion de archivos
+
+#introduccion a git
