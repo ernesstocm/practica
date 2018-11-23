@@ -13,3 +13,5 @@ git clone = clona el repositorio de github en la carpeta en la que estes en la c
 git init = inicia un repositorio en una carpeta concreta.
 
 git remote add origin = añade el repositorio a traves de una url a una carpeta y los vincula
+
+git commit -m = añade una nota de la actualizacion de archivos
